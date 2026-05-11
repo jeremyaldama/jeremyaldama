@@ -61,7 +61,7 @@ I've worked with multicultural teams from Asia, Europe, and the U.S., building p
 
 | Role | Company | Period |
 |------|---------|--------|
-| **Software Developer Senior** | Informa srl | Mar 2025 – Present |
+| **Software Developer** | Informa srl | Mar 2025 – Present |
 | **Cloud Solutions Architect** | Huawei | Nov 2024 – Nov 2025 |
 | **Backend Engineer** | Tucambista | Sept 2024 – Dec 2024 |
 | **Full-Stack Developer** | PUCP | May 2023 – Nov 2024 |
